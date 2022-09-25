@@ -10,7 +10,7 @@ function App() {
               height: '50px',
               width: '100px',
               color: "white",
-              backgroundColor: "blue"
+              backgroundColor: "red"
             }}
             type="button"
           >
